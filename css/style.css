@@ -1,0 +1,56 @@
+body{
+	background-color: black;
+}
+
+.card{
+
+background-image: url("../assets/backgorund.png");
+background-repeat: no-repeat;
+width: 400px;
+heigt: 200px;
+background-size: cover;
+padding-top: 2px;
+padding-bottom: 2px;
+padding-right: 2px;
+padding-left: 10px;
+margin: auto;
+margin-top: 10%;
+box-sizing: border-box;
+}
+
+
+
+
+a{
+	text-decoration: none;
+	color: black;
+
+}
+
+a:hover{
+	color: red;
+}
+
+.you{
+	list-style-image: url("../assets/Youtube.png");
+}
+
+
+.twi{
+	list-style-image: url("../assets/Twitter.png");
+}
+
+
+.insta{
+	list-style-image: url("../assets/Insta.png");
+}
+
+
+
+
+.ps{
+	color: white;
+}
+.ps:hover{
+	color: white;
+}
